@@ -1,11 +1,16 @@
 _repo: Heedless-Hetty_71484
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lyster, Annette
     gutenberg_agent_id: '56259'
     url: http://www.gutenberg.org/2009/agents/56259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71484#Heedless-Hetty
 gutenberg_issued: '2023-08-25'
 identifiers:
   gutenberg: '71484'
